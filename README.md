@@ -9,6 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Injection with Go-Fx](https://medium.com/wesionary-team/dependency-injection-with-go-fx-b698a6585cf0?source=rss-84b5bac24db8------2)
+- [Finite State Machines with Go-lang.](https://medium.com/wesionary-team/finite-state-machines-with-go-lang-ccd20e329a7b?source=rss-84b5bac24db8------2)
+- [Pyramid Chart with Chart.js and React](https://medium.com/wesionary-team/pyramid-chart-with-chart-js-and-react-16a1916d5221?source=rss-84b5bac24db8------2)
+- [Server-Sent Events with Go and React](https://medium.com/wesionary-team/server-sent-events-with-go-and-react-76df101a3efe?source=rss-84b5bac24db8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
