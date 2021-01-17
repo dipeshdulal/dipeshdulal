@@ -1,5 +1,5 @@
 <h1 align="center">नमस्कार 🙏, I'm Dipesh Dulal</h1>
-<h3 align="center">Software Developer from Nepal 🇳🇵👋</h3>
+<h3 align="center">Software Engineer from Nepal 🇳🇵👋</h3>
 
 - 📝 I regulary write articles on [https://medium.com/@dipesh.dulal](https://medium.com/@dipesh.dulal)
 
