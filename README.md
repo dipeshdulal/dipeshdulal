@@ -1,7 +1,7 @@
 <h1 align="center">नमस्कार 🙏, I'm Dipesh Dulal</h1>
 <h3 align="center">Software Engineer from Nepal 🇳🇵👋</h3>
 
-- 📝 I regulary write articles on [https://medium.com/@dipesh.dulal](https://medium.com/@dipesh.dulal)
+- 📝 I regulary write articles on [https://dipesh-dulal.medium.com/](https://dipesh-dulal.medium.com/)
 
 - 💬 Ask me about **NodeJS, React, Angular, Go, PHP, Java**
 
