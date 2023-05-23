@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Subscriptions with AppSync and DynamoDB](https://articles.wesionary.team/creating-subscriptions-with-appsync-and-dynamodb-2ae4c026bdd0?source=rss-84b5bac24db8------2)
 - [DynamoDB GraphQL API’s in AWS AppSync](https://articles.wesionary.team/dynamodb-graphql-apis-in-aws-appsync-6663d0b24607?source=rss-84b5bac24db8------2)
 - [Logging Interfaces in Go](https://articles.wesionary.team/logging-interfaces-in-go-182c28be3d18?source=rss-84b5bac24db8------2)
 - [WebRTC Live Streaming with AntMedia in React Native](https://articles.wesionary.team/webrtc-live-streaming-with-antmedia-in-react-native-7582ffb37e3c?source=rss-84b5bac24db8------2)
-- [Building Basic Event Scheduler in Go](https://articles.wesionary.team/building-basic-event-scheduler-in-go-134c19f77f84?source=rss-84b5bac24db8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
