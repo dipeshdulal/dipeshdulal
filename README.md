@@ -15,11 +15,10 @@
 - [WebRTC Live Streaming with AntMedia in React Native](https://articles.wesionary.team/webrtc-live-streaming-with-antmedia-in-react-native-7582ffb37e3c?source=rss-84b5bac24db8------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Connect with me:
+
 <table border="0">
   <tr>
-    <td style="vertical-align: middle;">
-      <h3>Connect with me:</h3>
-    </td>
     <td style="vertical-align: middle;">
       <a href="https://twitter.com/deepaeshdulal" target="blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="deepaeshdulal" height="30" width="40" />
